@@ -6,6 +6,17 @@ Plantilla para Microsoft Excel que permite analizar cómodamente tu expediente a
 
 2. Seguir las instrucciones que aparecen en la plantilla.
 
+## Muestras del contenido de la plantilla
+
+En la siguiente hoja de **datos de entrada** se inserta la tabla copiada de la secretaría virtual. Además se pueden insertar notas hipotéticas en las columnas de la derecha:
+![Datos entrada](https://github.com/gonzalezcostamanuel/notasUSC/blob/main/capturas/CapturaHojaDatosEntrada.PNG)
+
+En la **hoja de resultados** se visualiza la nota media, junto con algunas estadísticas de tu expediente:
+![Hoja resultados](https://github.com/gonzalezcostamanuel/notasUSC/blob/main/capturas/CapturaHojaResultados.PNG)
+
+En la **hoja de nota objetivo** aparecen las notas medias máxima y mínima que se pueden obtener, teniendo en cuenta las materias en las que estás matriculado pero que aún no se han cualificado. Además, puedes establecer una nota media deseada y Excel te indicará qué nota debes sacar en las asignaturas no evaluadas para obtener al final dicha nota media deseada:
+![Hoja Nota deseada](https://github.com/gonzalezcostamanuel/notasUSC/blob/main/capturas/CapturaHojaNotaObjetivo.PNG)
+
 ## Contacto
 
 Cualquier duda o consulta, escribir al correo [gonzalezcostamanuel@gmail.com](mailto:gonzalezcostamanuel@gmail.com)
