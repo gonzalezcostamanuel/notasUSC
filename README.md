@@ -5,9 +5,10 @@ Plantilla para Microsoft Excel que permite analizar cómodamente tu expediente a
 1. Descargar la plantilla (clicando sobre ella y seleccionando después el botón download):
 
 ![Download1](https://github.com/gonzalezcostamanuel/notasUSC/blob/main/capturas/captura_download_1.png)
+
 ![Download2](https://github.com/gonzalezcostamanuel/notasUSC/blob/main/capturas/captura_downlowad_2.png)
 
-2. abrirla con Microsoft Excel (sirve tanto la versión de Excel de escritorio como la versión online de Office 365). **OJO!** *Con libreOffice no funcionará correctamente.*
+2. Abrirla con Microsoft Excel (sirve tanto la versión de Excel de escritorio como la versión online de Office 365). **OJO!** *Con libreOffice no funcionará correctamente.*
 
 3. Seguir las instrucciones que aparecen en la plantilla.
 
