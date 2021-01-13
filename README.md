@@ -1,5 +1,22 @@
 # notasUSC
-Plantilla para Microsoft Excel que permite analizar cómodamente tu expediente académico, incluyendo la posibilidad de saber qué media podrías llegar a tener introduciendo calificaciones hipotéticas en asignaturas aún no evaluadas, nota media máxima y mínima que podrías obtener, o incluso marcar qué nota media querrías obtener para que te indique las calificaciones que deberías obtener para alcanzar dicha nota media deseada.
+## Llegan los exámenes de enero y, con ellos, las calificaciones.
+
+¿Te interesa saber qué nota media tendrás al finalizar la carrera para conocer tus posibilidades de entrar en un máster o acceder a una beca?
+¿Alguno ha intentado calcular su media incluyendo las calificaciones que pretende obtener en este cuatrimestre?
+
+Los que lo han hecho sabrán lo engorroso del asunto. 
+
+Esto es así porque la nota media de un expediente universitario se calcula ponderando cada calificación por el número de créditos de esa materia. Así se consigue que, por ejemplo, una materia de 9 créditos influya más en tu nota media que una asignatura de 4.5 créditos.
+
+Como a cada problema se le debería proporcionar una o más soluciones, he diseñado una hoja de Excel que hace todo el trabajo por ti.
+
+Tu única labor es copiar y pegar la tabla de calificaciones desde el apartado “consulta de expediente” de la secretaría virtual ala hoja de cálculo, y ella hará la magia.
+
+Podrás ver tu nota media actual, tus mejores y peores notas, las materias que más te suben la media y otros datos estadísticos.
+
+Otra funcionalidad es que podrás asignar notas a asignaturas que aún no has cursado y ver cómo te quedaría la media en esa situación. 
+
+Además, podrás indicarle a la hoja de cálculo qué nota media desearías tener al finalizar el curso y ella te indicará qué notas tienes que conseguir en las asignaturas que faltan por calificar.
 
 ## Instrucciones de uso
 1. Descargar la plantilla (clicando sobre ella y seleccionando después el botón download):
