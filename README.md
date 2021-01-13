@@ -19,15 +19,15 @@ Otra funcionalidad es que podrás asignar notas a asignaturas que aún no has cu
 Además, podrás indicarle a la hoja de cálculo qué nota media desearías tener al finalizar el curso y ella te indicará qué notas tienes que conseguir en las asignaturas que faltan por calificar.
 
 ## Instrucciones de uso
-1. Descargar la plantilla (clicando sobre ella y seleccionando después el botón download):
+**Paso 1.** Descargar la plantilla (clicando sobre ella y seleccionando después el botón download):
 
 ![Download1](https://github.com/gonzalezcostamanuel/notasUSC/blob/main/capturas/captura_download_1.png)
 
 ![Download2](https://github.com/gonzalezcostamanuel/notasUSC/blob/main/capturas/captura_downlowad_2.png)
 
-2. Abrirla con Microsoft Excel (sirve tanto la versión de Excel de escritorio como la versión online de Office 365). **OJO!** *Con libreOffice no funcionará correctamente.*
+**Paso 2.** Abrirla con Microsoft Excel (sirve tanto la versión de Excel de escritorio como la versión online de Office 365). **OJO!** *Con libreOffice no funcionará correctamente.*
 
-3. Seguir las instrucciones que aparecen en la plantilla.
+**Paso 3.** Seguir las instrucciones que aparecen en la plantilla.
 
 ## Muestras del contenido de la plantilla
 
